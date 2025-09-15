@@ -1,17 +1,21 @@
 # ChatPM_GPT
 A Highly customisable ChatGPT Chat Bot for your minecraft world!
 
-## How to use
+## Finally, a worthy successor!
+Was going through the poggit new-builds channel on discord, and I came across this! [PMMP-AI](https://github.com/RenzMc/PMMP-AI) plugin, developed by [RenzMC](https://github.com/RenzMc). The mad-lad has only gone and done it! Built a far superior plugin, better than I could with my concept! Give that plugin a bash! :D
+
+
+### How to use
 > [!NOTE]  
 > You will need an OpenAI API key to use this plugin. You can get one from [OpenAI Platform](https://platform.openai.com/account/api-keys).
 1. Copy your OpenAI API key and paste it in the `config.yml` file.
 2. Run the server
 3. Trigger the chatbot by typing `@Botty` in the chat, followed by your message.
 
-## Permission
+### Permission
 - `chatpm_gpt.use` - Allows the player to use the chatbot. Default: true.
 
-## Config
+### Config
 ```yaml
 # This is the configuration file for ChatPM_GPT.
 # You can modify the settings here to customize the plugin to your liking.
